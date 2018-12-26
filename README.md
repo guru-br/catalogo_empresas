@@ -36,7 +36,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Paraíba (PB)
 ---
 ### Paraná (PR)
----
+ * [EBANX](https://ebanx.com/)
+
 ### Pernambuco (PE)
 ---
 ### Piauí (PI)
