@@ -72,6 +72,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Magnetis](https://magnetis.com.br)
  * [Petlove](https://petlove.com.br)
  * [EasyCr√©dito](https://easycredito.me/)
+ * [Worldpackers](https://worldpackers.com)
 
 ### Sergipe (SE)
 ---
