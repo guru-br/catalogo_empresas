@@ -20,6 +20,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Espírito Santo (ES)
 ---
 ### Goiás (GO)
+ * [Anexo Soluções](http://www.anexosolucoes.com.br/)
  * [Cilia](https://cilia.com.br/)
  * [Siedos](http://siedos.com.br/)
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
