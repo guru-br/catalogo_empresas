@@ -25,6 +25,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
  * [UmbrellaTec](http://www.umbrellatec.com.br/)
  * [Voz Digital](http://vozdigital.com.br/)
+ * [EasyCrédito](https://easycredito.me/) - matriz
 
 ### Maranhão (MA)
 ---
@@ -39,7 +40,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Paraíba (PB)
 ---
 ### Paraná (PR)
----
+ * [EBANX](https://ebanx.com/)
+
 ### Pernambuco (PE)
 ---
 ### Piauí (PI)
@@ -61,6 +63,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [Credere](https://meucredere.com.br)
  * [Magnetis](https://magnetis.com.br)
  * [Petlove](https://petlove.com.br)
+ * [EasyCrédito](https://easycredito.me/)
 
 ### Sergipe (SE)
 ---
