@@ -1,5 +1,5 @@
 # Catálogo Empresas
-## Lista de empresas e ou instituiçes das quais possuem em sua stack principal e ou demais sistemas relevantes com Ruby (Rails, Sinatra ou demais frameworks da linguagem).
+## Lista de empresas e ou instituições das quais possuem em sua stack principal e ou demais sistemas relevantes com Ruby (Rails, Sinatra ou demais frameworks da linguagem).
 
 Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identificação da qual é a matriz da empresa.
 
