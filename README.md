@@ -64,6 +64,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### Roraima (RR)
 ---
 ### Santa Catarina (SC)
+ * [Portabilis](http://portabilis.com.br)
+ * [Organizze](https://www.organizze.com.br/)
 ---
 ### S√£o Paulo (SP)
  * [Credere](https://meucredere.com.br)
