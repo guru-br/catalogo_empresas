@@ -40,7 +40,9 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [EBANX](https://ebanx.com/)
 
 ### Pernambuco (PE)
----
+* [In Loco](https://inloco.com.br/)
+* [Skyhub](https://skyhub.com.br/)
+
 ### Piau√≠ (PI)
 ---
 ### Rio de Janeiro (RJ)
