@@ -20,8 +20,11 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Espírito Santo (ES)
 ---
 ### Goiás (GO)
+ * [Cilia](https://cilia.com.br/)
  * [Siedos](http://siedos.com.br/)
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
+ * [UmbrellaTec](http://www.umbrellatec.com.br/)
+ * [Voz Digital](http://vozdigital.com.br/)
 
 ### Maranhão (MA)
 ---
