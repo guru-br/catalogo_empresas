@@ -48,9 +48,11 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Skyhub](https://skyhub.com.br/)
 
 ### Piau√≠ (PI)
----
+* [Jus](https://jus.com.br/)
+
 ### Rio de Janeiro (RJ)
----
+* [Globo.com](https://www.globo.com/)
+
 ### Rio Grande do Norte (RN)
  * [Credere](https://meucredere.com.br) - matriz
 
