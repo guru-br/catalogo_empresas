@@ -57,6 +57,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### S√£o Paulo (SP)
  * [Credere](https://meucredere.com.br)
  * [Magnetis](https://magnetis.com.br)
+ * [Petlove](https://petlove.com.br)
 
 ### Sergipe (SE)
 ---
