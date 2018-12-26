@@ -6,7 +6,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Acre (AC)
 ---
 ### Alagoas (AL)
----
+  * [Safety System Technology](http://safetysystemtechnology.com.br/)
+
 ### Amapá (AP)
 ---
 ### Amazonas (AM)
@@ -36,7 +37,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ---
 ### Minas Gerais (MG)
 ---
-### Pará (PA) 
+### Pará (PA)
 ---
 ### Paraíba (PB)
 ---
