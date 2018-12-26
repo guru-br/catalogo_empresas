@@ -22,7 +22,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Goiás (GO)
  * [Siedos](http://siedos.com.br/)
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
- * [EasyCrédito](https://easycredito.me/)
+ * [EasyCrédito](https://easycredito.me/) - matriz
 
 ### Maranhão (MA)
 ---
@@ -60,6 +60,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [Credere](https://meucredere.com.br)
  * [Magnetis](https://magnetis.com.br)
  * [Petlove](https://petlove.com.br)
+ * [EasyCrédito](https://easycredito.me/)
 
 ### Sergipe (SE)
 ---
