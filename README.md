@@ -22,6 +22,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Goiás (GO)
  * [Siedos](http://siedos.com.br/)
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
+ * [EasyCrédito](https://easycredito.me/)
 
 ### Maranhão (MA)
 ---
