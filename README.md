@@ -40,7 +40,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Pará (PA)
 ---
 ### Paraíba (PB)
----
+* [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Paraná (PR)
  * [EBANX](https://ebanx.com/)
 
