@@ -33,6 +33,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [Voz Digital](http://vozdigital.com.br/)
  * [EasyCrédito](https://easycredito.me/) - matriz
  * [Gado e Cia](http://www.gadoecia.com.br/)
+ * [Cogni](https://cogni.group/)
 
 ### Maranhão (MA)
 ---
