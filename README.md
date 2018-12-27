@@ -99,6 +99,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Creditas](https://creditas.com.br)
  * [GetNinjas](https://getninjas.com.br)
  * [Plataformatec](https://plataformatec.com.br)
+ * [Locaweb](https://locaweb.com.br)
 
 ### Sergipe (SE)
 ---
