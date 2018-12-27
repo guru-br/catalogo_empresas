@@ -53,6 +53,23 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 
 ### Rio de Janeiro (RJ)
 * [Globo.com](https://www.globo.com/)
+* [Lemoney](https://www.lemoney.com/)
+* [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
+* [Qconcursos](https://www.qconcursos.com/)
+* [Nexaas](http://nexaas.com/)
+* [Beep Saúde](https://www.beepsaude.com.br/)
+* [FullLab](https://www.fulllab.com.br/)
+* [ChefsClub](https://www.chefsclub.com.br/)
+* [Reserva](https://www.usereserva.com/)
+* [Dtm](http://www.dtmtec.com.br/)
+* [Estante Virtual](https://www.estantevirtual.com.br/)
+* [XL Solutions](http://www.xlsol.com/)
+* [Edools](https://www.edools.com/)
+* [BeijaFlore](https://www.beijaflore.com/be/)
+* [Nuuvem](https://www.nuuvem.com/)
+* [Mainô](https://www.maino.com.br/)
+* [Rupee](https://www.rupee.com.br/)
+* [Wpensar](https://wpensar.com.br/)
 
 ### Rio Grande do Norte (RN)
  * [Credere](https://meucredere.com.br) - matriz
