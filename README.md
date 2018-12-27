@@ -95,6 +95,9 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Petlove](https://petlove.com.br)
  * [EasyCr√©dito](https://easycredito.me/)
  * [Worldpackers](https://worldpackers.com)
+ * [Creditas](https://creditas.com.br)
+ * [GetNinjas](https://getninjas.com.br)
+ * [Plataformatec](https://plataformatec.com.br)
 
 ### Sergipe (SE)
 ---
