@@ -19,7 +19,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Distrito Federal (DF)
 ---
 ### Espírito Santo (ES)
----
+ * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
+
 ### Goiás (GO)
  * [Anexo Soluções](http://www.anexosolucoes.com.br/)
  * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
@@ -42,7 +43,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Mato Grosso do Sul (MS)
 ---
 ### Minas Gerais (MG)
----
+* [Dito](https://dito.com.br/) - matriz
 ### Pará (PA)
 ---
 ### Paraíba (PB)
@@ -76,6 +77,9 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 * [Mainô](https://www.maino.com.br/)
 * [Rupee](https://www.rupee.com.br/)
 * [Wpensar](https://wpensar.com.br/)
+* [M4U](https://www.m4u.com.br/)
+* [Indeva](https://indeva.com.br/)
+* [SkyHub](https://skyhub.com.br/) - matriz
 
 ### Rio Grande do Norte (RN)
  * [Credere](https://meucredere.com.br) - matriz
@@ -100,6 +104,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [GetNinjas](https://getninjas.com.br)
  * [Plataformatec](https://plataformatec.com.br)
  * [Locaweb](https://locaweb.com.br)
+ * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
 
 ### Sergipe (SE)
 ---
