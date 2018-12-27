@@ -43,7 +43,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### Mato Grosso do Sul (MS)
 ---
 ### Minas Gerais (MG)
----
+* [Dito](https://dito.com.br/) - matriz
 ### Par√° (PA)
 ---
 ### Para√≠ba (PB)
@@ -77,6 +77,9 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Main√¥](https://www.maino.com.br/)
 * [Rupee](https://www.rupee.com.br/)
 * [Wpensar](https://wpensar.com.br/)
+* [M4U](https://www.m4u.com.br/)
+* [Indeva](https://indeva.com.br/)
+* [SkyHub](https://skyhub.com.br/) - matriz
 
 ### Rio Grande do Norte (RN)
  * [Credere](https://meucredere.com.br) - matriz
