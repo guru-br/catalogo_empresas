@@ -19,7 +19,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Distrito Federal (DF)
 ---
 ### Espírito Santo (ES)
----
+ * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
+
 ### Goiás (GO)
  * [Anexo Soluções](http://www.anexosolucoes.com.br/)
  * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
@@ -99,6 +100,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
  * [Creditas](https://creditas.com.br)
  * [GetNinjas](https://getninjas.com.br)
  * [Plataformatec](https://plataformatec.com.br)
+ * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
 
 ### Sergipe (SE)
 ---
