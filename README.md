@@ -22,12 +22,17 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ---
 ### Goiás (GO)
  * [Anexo Soluções](http://www.anexosolucoes.com.br/)
+ * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
+ * [BaladApp](http://www.baladapp.com.br/)
  * [Cilia](https://cilia.com.br/)
+ * [Dev4Labs](https://www.dev4web.com.br/)
+ * [Secretaria de Educação e Esporte do Estado de Goiás](https://www.seduce.go.gov.br/)
  * [Siedos](http://siedos.com.br/)
  * [Tribunal de Justiça](http://www.tjgo.jus.br/)
  * [UmbrellaTec](http://www.umbrellatec.com.br/)
  * [Voz Digital](http://vozdigital.com.br/)
  * [EasyCrédito](https://easycredito.me/) - matriz
+ * [Gado e Cia](http://www.gadoecia.com.br/)
 
 ### Maranhão (MA)
 ---
