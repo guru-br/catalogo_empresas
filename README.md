@@ -49,6 +49,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Paran√° (PR)
  * [EBANX](https://ebanx.com/)
+ * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 
 ### Pernambuco (PE)
 * [In Loco](https://inloco.com.br/)
