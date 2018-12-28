@@ -85,7 +85,10 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [SkyHub](https://skyhub.com.br/) - matriz
 
 ### Rio Grande do Norte (RN)
- * [Credere](https://meucredere.com.br) - matriz
+* [Credere](https://meucredere.com.br) - matriz
+* [Codeminer 42](http://www.codeminer42.com/)
+* [Tootz](https://tootz.com.br/)
+* [AutoForce](https://autoforce.com/)
 
 ### Rio Grande do Sul (RS)
 ---
@@ -111,6 +114,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
  * [Trustvox](https://site.trustvox.com.br)
  * [Rapidoo](https://rapidoo.com.br)
+ * [Codeminer 42](http://www.codeminer42.com/) - matriz
+
 
 ### Sergipe (SE)
 ---
