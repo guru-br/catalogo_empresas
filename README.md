@@ -114,17 +114,17 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Dr. Sintomas](https://drsintomas.com.br/)
 * [EasyCrédito](https://easycredito.me/)
 * [GetNinjas](https://getninjas.com.br)
+* [HugPay](http://www.hugpay.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Magnetis](https://magnetis.com.br)
 * [Nexoos](https://nexoos.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Plataformatec](https://plataformatec.com.br)
 * [Rapidoo](https://rapidoo.com.br)
+* [TOTVS](http://www.totvs.com.br) - área de Cloud da Empresa (Cloud104)
 * [Trustvox](https://site.trustvox.com.br)
 * [Vagas](https://vagas.com.br)
 * [Worldpackers](https://worldpackers.com)
-
----
 
 ## Sul
 
