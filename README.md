@@ -46,6 +46,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Par√° (PA)
+* [Idopter Labs](http://www.idopterlabs.com.br)
 ---
 ### Para√≠ba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
@@ -54,6 +55,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 ---
 ### Pernambuco (PE)
+* [Guava](https://guavasoftware.com/)
 * [In Loco](https://inloco.com.br/)
 * [Skyhub](https://skyhub.com.br/)
 ---
@@ -100,6 +102,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Organizze](https://www.organizze.com.br/)
 ---
 ### S√£o Paulo (SP)
+* [AutoSeg](https://autoseg.com/)
 * [Credere](https://meucredere.com.br)
 * [Magnetis](https://magnetis.com.br)
 * [Petlove](https://petlove.com.br)
@@ -114,6 +117,10 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Trustvox](https://site.trustvox.com.br)
 * [Rapidoo](https://rapidoo.com.br)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
+* [Dog Hero](http://doghero.com.br)
+* [Nexoos](https://nexoos.com.br/)
+* [Bicos](https://www.bicos.com.br/)
+* [Dr. Sintomas](https://drsintomas.com.br/)
 ---
 ### Sergipe (SE)
 ---
