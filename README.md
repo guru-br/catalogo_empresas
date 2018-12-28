@@ -47,6 +47,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Pará (PA)
+* [Idopter Labs](http://www.idopterlabs.com.br)
 ---
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
