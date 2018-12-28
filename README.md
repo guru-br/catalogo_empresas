@@ -113,4 +113,5 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### Sergipe (SE)
 ---
 ### Tocantins (TO)
+* [Defensoria P√∫blica do Estado do Tocantins](http://defensoria.to.def.br)
 ---
