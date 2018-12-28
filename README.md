@@ -15,6 +15,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ### Bahia (BA)
 ---
 ### Cear√° (CE)
+* [Agenda Edu](https://agendaedu.com/)
+
 ---
 ### Distrito Federal (DF)
 ---
