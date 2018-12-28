@@ -45,6 +45,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ---
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
+* [Rockcontent](https://rockcontent.com/)
+---
 ### Par√° (PA)
 * [Idopter Labs](http://www.idopterlabs.com.br)
 ---
@@ -121,6 +123,14 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Nexoos](https://nexoos.com.br/)
 * [Bicos](https://www.bicos.com.br/)
 * [Dr. Sintomas](https://drsintomas.com.br/)
+* [Pitzi](https://pitzi.com.br/)
+* [Enjoei](https://www.enjoei.com.br/)
+* [Caderno Nacional](https://www.cadernonacional.com.br/)
+* [Gympass](https://www.gympass.com/)
+* [Iugu](https://iugu.com/)
+* [Clicksign](https://www.clicksign.com/)
+* [Luztr](http://www.luztr.com/)
+* [Monde](https://www.monde.com.br/)
 ---
 ### Sergipe (SE)
 ---
