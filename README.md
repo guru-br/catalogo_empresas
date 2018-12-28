@@ -6,8 +6,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Acre (AC)
 ---
 ### Alagoas (AL)
-  * [Safety System Technology](http://safetysystemtechnology.com.br/)
-
+* [Safety System Technology](http://safetysystemtechnology.com.br/)
+---
 ### Amapá (AP)
 ---
 ### Amazonas (AM)
@@ -16,28 +16,27 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ---
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
-
 ---
 ### Distrito Federal (DF)
 ---
 ### Espírito Santo (ES)
- * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
-
+* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
+---
 ### Goiás (GO)
- * [Anexo Soluções](http://www.anexosolucoes.com.br/)
- * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
- * [BaladApp](http://www.baladapp.com.br/)
- * [Cilia](https://cilia.com.br/)
- * [Dev4Labs](https://www.dev4web.com.br/)
- * [Secretaria de Educação e Esporte do Estado de Goiás](https://www.seduce.go.gov.br/)
- * [Siedos](http://siedos.com.br/)
- * [Tribunal de Justiça](http://www.tjgo.jus.br/)
- * [UmbrellaTec](http://www.umbrellatec.com.br/)
- * [Voz Digital](http://vozdigital.com.br/)
- * [EasyCrédito](https://easycredito.me/) - matriz
- * [Gado e Cia](http://www.gadoecia.com.br/)
- * [Cogni](https://cogni.group/)
-
+* [Anexo Soluções](http://www.anexosolucoes.com.br/)
+* [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
+* [BaladApp](http://www.baladapp.com.br/)
+* [Cilia](https://cilia.com.br/)
+* [Dev4Labs](https://www.dev4web.com.br/)
+* [Secretaria de Educação e Esporte do Estado de Goiás](https://www.seduce.go.gov.br/)
+* [Siedos](http://siedos.com.br/)
+* [Tribunal de Justiça](http://www.tjgo.jus.br/)
+* [UmbrellaTec](http://www.umbrellatec.com.br/)
+* [Voz Digital](http://vozdigital.com.br/)
+* [EasyCrédito](https://easycredito.me/) - matriz
+* [Gado e Cia](http://www.gadoecia.com.br/)
+* [Cogni](https://cogni.group/)
+---
 ### Maranhão (MA)
 ---
 ### Mato Grosso (MT)
@@ -51,16 +50,16 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Paraná (PR)
- * [EBANX](https://ebanx.com/)
- * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
-
+* [EBANX](https://ebanx.com/)
+* [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
+---
 ### Pernambuco (PE)
 * [In Loco](https://inloco.com.br/)
 * [Skyhub](https://skyhub.com.br/)
-
+---
 ### Piauí (PI)
 * [Jus](https://jus.com.br/)
-
+---
 ### Rio de Janeiro (RJ)
 * [Globo.com](https://www.globo.com/)
 * [Lemoney](https://www.lemoney.com/)
@@ -83,10 +82,10 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 * [M4U](https://www.m4u.com.br/)
 * [Indeva](https://indeva.com.br/)
 * [SkyHub](https://skyhub.com.br/) - matriz
-
+---
 ### Rio Grande do Norte (RN)
- * [Credere](https://meucredere.com.br) - matriz
-
+* [Credere](https://meucredere.com.br) - matriz
+---
 ### Rio Grande do Sul (RS)
 ---
 ### Rondônia (RO)
@@ -94,24 +93,24 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ### Roraima (RR)
 ---
 ### Santa Catarina (SC)
- * [Portabilis](http://portabilis.com.br)
- * [Organizze](https://www.organizze.com.br/)
+* [Portabilis](http://portabilis.com.br)
+* [Organizze](https://www.organizze.com.br/)
 ---
 ### São Paulo (SP)
- * [Credere](https://meucredere.com.br)
- * [Magnetis](https://magnetis.com.br)
- * [Petlove](https://petlove.com.br)
- * [EasyCrédito](https://easycredito.me/)
- * [Worldpackers](https://worldpackers.com)
- * [Creditas](https://creditas.com.br)
- * [GetNinjas](https://getninjas.com.br)
- * [Plataformatec](https://plataformatec.com.br)
- * [Vagas](https://vagas.com.br)
- * [Locaweb](https://locaweb.com.br)
- * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
- * [Trustvox](https://site.trustvox.com.br)
- * [Rapidoo](https://rapidoo.com.br)
-
+* [Credere](https://meucredere.com.br)
+* [Magnetis](https://magnetis.com.br)
+* [Petlove](https://petlove.com.br)
+* [EasyCrédito](https://easycredito.me/)
+* [Worldpackers](https://worldpackers.com)
+* [Creditas](https://creditas.com.br)
+* [GetNinjas](https://getninjas.com.br)
+* [Plataformatec](https://plataformatec.com.br)
+* [Vagas](https://vagas.com.br)
+* [Locaweb](https://locaweb.com.br)
+* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
+* [Trustvox](https://site.trustvox.com.br)
+* [Rapidoo](https://rapidoo.com.br)
+---
 ### Sergipe (SE)
 ---
 ### Tocantins (TO)
