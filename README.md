@@ -116,6 +116,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Trustvox](https://site.trustvox.com.br)
  * [Rapidoo](https://rapidoo.com.br)
  * [Codeminer 42](http://www.codeminer42.com/) - matriz
+ * [Dog Hero](http://doghero.com.br)
 
 
 ### Sergipe (SE)
