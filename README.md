@@ -55,6 +55,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 
 ### Pernambuco (PE)
+* [Guava](https://guavasoftware.com/)
 * [In Loco](https://inloco.com.br/)
 * [Skyhub](https://skyhub.com.br/)
 
