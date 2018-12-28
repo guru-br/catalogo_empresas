@@ -103,24 +103,27 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica�
 ---
 ### São Paulo (SP)
 * [AutoSeg](https://autoseg.com/)
-* [Credere](https://meucredere.com.br)
-* [Magnetis](https://magnetis.com.br)
-* [Petlove](https://petlove.com.br)
-* [EasyCrédito](https://easycredito.me/)
-* [Worldpackers](https://worldpackers.com)
-* [Creditas](https://creditas.com.br)
-* [GetNinjas](https://getninjas.com.br)
-* [Plataformatec](https://plataformatec.com.br)
-* [Vagas](https://vagas.com.br)
-* [Locaweb](https://locaweb.com.br)
-* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
-* [Trustvox](https://site.trustvox.com.br)
-* [Rapidoo](https://rapidoo.com.br)
-* [Codeminer 42](http://www.codeminer42.com/) - matriz
-* [Dog Hero](http://doghero.com.br)
-* [Nexoos](https://nexoos.com.br/)
 * [Bicos](https://www.bicos.com.br/)
+* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
+* [Codeminer 42](http://www.codeminer42.com/) - matriz
+* [Credere](https://meucredere.com.br)
+* [Creditas](https://creditas.com.br)
+* [Dog Hero](http://doghero.com.br)
 * [Dr. Sintomas](https://drsintomas.com.br/)
+* [EasyCrédito](https://easycredito.me/)
+* [GetNinjas](https://getninjas.com.br)
+* [HugPay](http://www.hugpay.com.br)
+* [Locaweb](https://locaweb.com.br)
+* [Magnetis](https://magnetis.com.br)
+* [Nexoos](https://nexoos.com.br/)
+* [Petlove](https://petlove.com.br)
+* [Plataformatec](https://plataformatec.com.br)
+* [Rapidoo](https://rapidoo.com.br)
+* [TOTVS](http://www.totvs.com.br) - área de Cloud da Empresa (Cloud104)
+* [Trustvox](https://site.trustvox.com.br)
+* [Vagas](https://vagas.com.br)
+* [Worldpackers](https://worldpackers.com)
+
 ---
 ### Sergipe (SE)
 ---
