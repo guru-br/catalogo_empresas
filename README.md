@@ -108,6 +108,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Locaweb](https://locaweb.com.br)
  * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
  * [Trustvox](https://site.trustvox.com.br)
+ * [Rapidoo](https://rapidoo.com.br)
 
 ### Sergipe (SE)
 ---
