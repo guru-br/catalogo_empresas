@@ -98,6 +98,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
  * [Organizze](https://www.organizze.com.br/)
 ---
 ### S√£o Paulo (SP)
+ * [AutoSeg](https://autoseg.com/)
  * [Credere](https://meucredere.com.br)
  * [Magnetis](https://magnetis.com.br)
  * [Petlove](https://petlove.com.br)
