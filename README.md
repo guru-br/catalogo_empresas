@@ -123,6 +123,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Trustvox](https://site.trustvox.com.br)
 * [Vagas](https://vagas.com.br)
 * [Worldpackers](https://worldpackers.com)
+* [Bionexo](https://bionexo.com)
 
 ---
 ### Sergipe (SE)
