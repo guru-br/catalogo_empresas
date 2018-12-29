@@ -106,6 +106,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Bicos](https://www.bicos.com.br/)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
+* [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
 * [Creditas](https://creditas.com.br)
 * [Dog Hero](http://doghero.com.br)
