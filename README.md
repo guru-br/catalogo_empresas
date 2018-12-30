@@ -102,6 +102,8 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Organizze](https://www.organizze.com.br/)
 ---
 ### S√£o Paulo (SP)
+* [Anuncie Ribeir√£o](https://www.anuncieribeirao.com/)
+* [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AutoSeg](https://autoseg.com/)
 * [Bicos](https://www.bicos.com.br/)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
@@ -115,6 +117,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [HugPay](http://www.hugpay.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Magnetis](https://magnetis.com.br)
+* [Motorsw](https://motorsw.com.br)
 * [Nexoos](https://nexoos.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Plataformatec](https://plataformatec.com.br)
