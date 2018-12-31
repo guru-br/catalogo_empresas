@@ -9,7 +9,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Centro-Oeste](#centro-oeste)
 * [Nordeste](#nordeste)
 * [Norte](#norte)
-* [Sudeste](#nordeste)
+* [Sudeste](#sudeste)
 * [Sul](#sul)
 
 ---
