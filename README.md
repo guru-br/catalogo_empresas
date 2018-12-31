@@ -107,6 +107,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [AutoSeg](https://autoseg.com/)
 * [Bicos](https://www.bicos.com.br/)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
+* [Bionexo](https://bionexo.com)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Clicksign](https://www.clicksign.com/)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
