@@ -43,8 +43,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Bahia (BA)
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
-### Espírito Santo (ES)
-* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
@@ -79,6 +77,8 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Sudeste
 
+### Espírito Santo (ES)
+* [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Rio de Janeiro (RJ)
