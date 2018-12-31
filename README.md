@@ -135,6 +135,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Pitzi](https://pitzi.com.br/)
 * [Rapidoo](https://rapidoo.com.br)
 * [Trustvox](https://site.trustvox.com.br)
+* [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
 * [Worldpackers](https://worldpackers.com)
 
