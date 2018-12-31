@@ -16,6 +16,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 ---
 ### Cear√° (CE)
 * [Agenda Edu](https://agendaedu.com/)
+* [Nutripad](https://www.nutripad.com.br/)
 ---
 ### Distrito Federal (DF)
 ---
