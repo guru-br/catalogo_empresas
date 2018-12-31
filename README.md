@@ -94,6 +94,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Lemoney](https://www.lemoney.com/)
 * [M4U](https://www.m4u.com.br/)
 * [Mainô](https://www.maino.com.br/)
+* [Melhores Diaristas](https://www.melhoresdiaristas.com.br/)
 * [Nexaas](http://nexaas.com/)
 * [Nuuvem](https://www.nuuvem.com/)
 * [Qconcursos](https://www.qconcursos.com/)
