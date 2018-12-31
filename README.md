@@ -113,6 +113,7 @@ Obs: Se a empresa tiver uma ou mais filiais, deve ser adicionada uma identifica√
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Clicksign](https://www.clicksign.com/)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
+* [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
 * [Creditas](https://creditas.com.br)
 * [Dog Hero](http://doghero.com.br)
