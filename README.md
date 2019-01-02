@@ -149,3 +149,4 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Santa Catarina (SC)
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
+* [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
