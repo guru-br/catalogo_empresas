@@ -105,6 +105,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
 ### São Paulo (SP)
+* [4Shark](http://www.4shark.com.br/)
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AutoSeg](https://autoseg.com/)
