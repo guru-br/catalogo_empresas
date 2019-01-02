@@ -115,6 +115,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Clicksign](https://www.clicksign.com/)
+* [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
 * [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
