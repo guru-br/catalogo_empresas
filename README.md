@@ -33,6 +33,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Voz Digital](http://vozdigital.com.br/)
 ### Mato Grosso (MT)
 ### Mato Grosso do Sul (MS)
+* [Jera](https://jera.com.br/)
 
 ---
 
@@ -105,6 +106,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
 ### São Paulo (SP)
+* [4Shark](http://www.4shark.com.br/)
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AutoSeg](https://autoseg.com/)
@@ -114,6 +116,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Clicksign](https://www.clicksign.com/)
+* [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
 * [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
