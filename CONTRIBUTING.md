@@ -10,3 +10,6 @@
 ### Empresas com filiais em outros estados
 
 Você quer cadastrar uma **empresa A** que fica em Rondônia, Porém, a matriz está no Rio de Janeiro. Acrescente a empresa em Rondônia, respeitando as regras, e caso a empresa ainda não esteja listada no RJ, cadastre-a e acrescente **- matriz** no final. Caso contrário, apenas adicione **- matriz**.
+  
+  
+Link para nosso grupo oficial no Telegram: https://t.me/rubybrasil
