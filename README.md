@@ -33,6 +33,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Voz Digital](http://vozdigital.com.br/)
 ### Mato Grosso (MT)
 ### Mato Grosso do Sul (MS)
+* [Jera](https://jera.com.br/)
 
 ---
 
