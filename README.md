@@ -142,6 +142,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Trustvox](https://site.trustvox.com.br)
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
+* [Vindi](https://vindi.com.br/)
 * [Worldpackers](https://worldpackers.com)
 
 ## Sul
