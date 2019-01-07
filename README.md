@@ -6,6 +6,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Menu
 
+* [Remoto](#remoto)
 * [Centro-Oeste](#centro-oeste)
 * [Nordeste](#nordeste)
 * [Norte](#norte)
@@ -13,6 +14,8 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Sul](#sul)
 
 ---
+### Remoto
+* [Husky](https://www.husky.io)
 
 ## Centro-Oeste
 
