@@ -138,7 +138,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Plataformatec](https://plataformatec.com.br)
 * [Pitzi](https://pitzi.com.br/)
 * [Rapidoo](https://rapidoo.com.br)
-* [Resultados Digitais](http://resultadosdigitais.com)
+* [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Trustvox](https://site.trustvox.com.br)
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
@@ -153,4 +153,4 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Santa Catarina (SC)
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
-* [Resultados Digitais](http://resultadosdigitais.com) - matriz
+* [Resultados Digitais](https://resultadosdigitais.com.br) - matriz
