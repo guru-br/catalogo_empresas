@@ -130,6 +130,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [GetNinjas](https://getninjas.com.br)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
+* [Kazap](https://kazap.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
