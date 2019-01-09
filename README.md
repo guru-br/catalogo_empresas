@@ -18,6 +18,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
+* [PDVend](https://www.pdvend.com.br/)
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
@@ -130,6 +131,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [GetNinjas](https://getninjas.com.br)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
+* [Kazap](https://kazap.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
@@ -140,6 +142,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Plataformatec](https://plataformatec.com.br)
 * [Pitzi](https://pitzi.com.br/)
 * [Rapidoo](https://rapidoo.com.br)
+* [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Trustvox](https://site.trustvox.com.br)
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
@@ -156,7 +159,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
-
 
 ## Sem escritório físico - Remoto
 * [Husky](https://www.husky.io)
