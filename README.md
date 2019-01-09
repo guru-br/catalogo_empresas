@@ -6,16 +6,14 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Menu
 
-* [Remoto](#remoto)
 * [Centro-Oeste](#centro-oeste)
 * [Nordeste](#nordeste)
 * [Norte](#norte)
 * [Sudeste](#sudeste)
 * [Sul](#sul)
+* [Sem escritório físico - Remoto](#remoto)
 
 ---
-### Remoto
-* [Husky](https://www.husky.io)
 
 ## Centro-Oeste
 
@@ -158,3 +156,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
+
+
+## Sem escritório físico - Remoto
+* [Husky](https://www.husky.io)
