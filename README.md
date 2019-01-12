@@ -11,6 +11,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Norte](#norte)
 * [Sudeste](#sudeste)
 * [Sul](#sul)
+* [Exterior (Remoto)](#exterior-remoto)
 
 ---
 
@@ -158,3 +159,9 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br) - matriz
+
+## Exterior (Remoto)
+
+### Canadá
+#### Prince Edward Island
+* [Forestry](https://forestry.io/careers/)
