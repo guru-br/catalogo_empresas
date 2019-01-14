@@ -23,6 +23,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
 * [BaladApp](http://www.baladapp.com.br/)
 * [Cilia](https://cilia.com.br/)
+* [Codeminer 42](http://www.codeminer42.com/)
 * [Cogni](https://cogni.group/)
 * [Dev4Labs](https://www.dev4web.com.br/)
 * [EasyCrédito](https://easycredito.me/) - matriz
