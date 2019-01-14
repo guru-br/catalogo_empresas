@@ -72,6 +72,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Pará (PA)
 * [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 * [Idopter Labs](http://www.idopterlabs.com.br)
+* [Pródiga Sistemas](http://www.prodigasistemas.com.br/)
 ### Rondônia (RO)
 ### Roraima (RR)
 ### Tocantins (TO)
