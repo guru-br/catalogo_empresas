@@ -11,6 +11,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Norte](#norte)
 * [Sudeste](#sudeste)
 * [Sul](#sul)
+* [Sem escritório físico - Remoto](#sem-escritório-físico---remoto)
 
 ---
 
@@ -159,4 +160,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Santa Catarina (SC)
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
-* [Resultados Digitais](https://resultadosdigitais.com.br) - matriz
+* [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
+
+## Sem escritório físico - Remoto
+* [Husky](https://www.husky.io)
