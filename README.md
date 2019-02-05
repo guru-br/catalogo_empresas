@@ -88,6 +88,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Rio de Janeiro (RJ)
+* [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
 * [BeijaFlore](https://www.beijaflore.com/be/)
 * [ChefsClub](https://www.chefsclub.com.br/)
