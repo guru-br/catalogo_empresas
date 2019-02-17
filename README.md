@@ -147,6 +147,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Rapidoo](https://rapidoo.com.br)
 * [Rebase](https://www.rebase.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
+* [Testr](http://testr.com.br/)
 * [Trustvox](https://site.trustvox.com.br)
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
