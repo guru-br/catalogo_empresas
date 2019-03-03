@@ -11,17 +11,20 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Norte](#norte)
 * [Sudeste](#sudeste)
 * [Sul](#sul)
+* [Sem escritório físico - Remoto](#sem-escritório-físico---remoto)
 
 ---
 
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
+* [PDVend](https://www.pdvend.com.br/)
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
 * [BaladApp](http://www.baladapp.com.br/)
 * [Cilia](https://cilia.com.br/)
+* [Codeminer 42](http://www.codeminer42.com/)
 * [Cogni](https://cogni.group/)
 * [Dev4Labs](https://www.dev4web.com.br/)
 * [EasyCrédito](https://easycredito.me/) - matriz
@@ -33,6 +36,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Voz Digital](http://vozdigital.com.br/)
 ### Mato Grosso (MT)
 ### Mato Grosso do Sul (MS)
+* [Jera](https://jera.com.br/)
 
 ---
 
@@ -67,7 +71,9 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Amazonas (AM)
 ### Maranhão (MA)
 ### Pará (PA)
+* [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 * [Idopter Labs](http://www.idopterlabs.com.br)
+* [Pródiga Sistemas](http://www.prodigasistemas.com.br/)
 ### Rondônia (RO)
 ### Roraima (RR)
 ### Tocantins (TO)
@@ -82,6 +88,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Rio de Janeiro (RJ)
+* [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
 * [BeijaFlore](https://www.beijaflore.com/be/)
 * [ChefsClub](https://www.chefsclub.com.br/)
@@ -94,6 +101,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Lemoney](https://www.lemoney.com/)
 * [M4U](https://www.m4u.com.br/)
 * [Mainô](https://www.maino.com.br/)
+* [Melhores Diaristas](https://www.melhoresdiaristas.com.br/)
 * [Nexaas](http://nexaas.com/)
 * [Nuuvem](https://www.nuuvem.com/)
 * [Qconcursos](https://www.qconcursos.com/)
@@ -104,6 +112,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
 ### São Paulo (SP)
+* [4Shark](http://www.4shark.com.br/)
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AutoSeg](https://autoseg.com/)
@@ -113,6 +122,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Clicksign](https://www.clicksign.com/)
+* [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
 * [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
@@ -124,6 +134,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [GetNinjas](https://getninjas.com.br)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
+* [Kazap](https://kazap.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
@@ -134,8 +145,13 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Plataformatec](https://plataformatec.com.br)
 * [Pitzi](https://pitzi.com.br/)
 * [Rapidoo](https://rapidoo.com.br)
+* [Rebase](https://www.rebase.com.br/)
+* [Resultados Digitais](https://resultadosdigitais.com.br)
+* [Testr](http://testr.com.br/)
 * [Trustvox](https://site.trustvox.com.br)
+* [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
+* [Vindi](https://vindi.com.br/)
 * [Worldpackers](https://worldpackers.com)
 
 ## Sul
@@ -147,3 +163,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Santa Catarina (SC)
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
+* [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
+
+## Sem escritório físico - Remoto
+* [Husky](https://www.husky.io)
