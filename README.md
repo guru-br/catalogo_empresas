@@ -166,4 +166,5 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
 
 ## Sem escritório físico - Remoto
+* [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [Husky](https://www.husky.io)
