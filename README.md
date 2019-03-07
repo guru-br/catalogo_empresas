@@ -58,6 +58,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Rio Grande do Norte (RN)
 * [AutoForce](https://autoforce.com/)
 * [Codeminer 42](http://www.codeminer42.com/)
+* [Craosx](https://craosx.com/)
 * [Credere](https://meucredere.com.br) - matriz
 * [Tootz](https://tootz.com.br/)
 ### Sergipe (SE)
@@ -153,6 +154,8 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Vagas](https://vagas.com.br)
 * [Vindi](https://vindi.com.br/)
 * [Worldpackers](https://worldpackers.com)
+
+---
 
 ## Sul
 
