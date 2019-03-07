@@ -182,5 +182,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Sumone](http://www.sumone.com.br)
 
 ## Sem escritório físico - Remoto
+* [Ebert](https://ebertapp.io)
 * [Husky](https://www.husky.io)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
