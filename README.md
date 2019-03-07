@@ -163,6 +163,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 ### Rio Grande do Sul (RS)
+* [Wedy](https://wedy.com/)
 ### Santa Catarina (SC)
 * [Portabilis](http://portabilis.com.br)
 * [Organizze](https://www.organizze.com.br/)
@@ -170,3 +171,4 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Sem escritório físico - Remoto
 * [Husky](https://www.husky.io)
+* [Rent a Local Friend](https://www.rentalocalfriend.com/)
