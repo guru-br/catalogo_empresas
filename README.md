@@ -179,7 +179,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Organizze](https://www.organizze.com.br/)
 * [Portabilis](http://portabilis.com.br)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
-* [Sumone](http://www.sumone.com.br)
+* [Zygo](http://www.zygotecnologia.com)
 
 ## Sem escritório físico - Remoto
 * [Husky](https://www.husky.io)
