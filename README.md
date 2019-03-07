@@ -165,9 +165,21 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Rio Grande do Sul (RS)
 * [Wedy](https://wedy.com/)
 ### Santa Catarina (SC)
-* [Portabilis](http://portabilis.com.br)
+* [Bonitour](https://www.bonitour.com.br)
+* [Celtec](http://celtec.com.br)
+* [GeekHunter](https://www.geekhunter.com.br)
+* [Go Good](http://www.gogood.social)
+* [FACISC](http://facisc.org.br)
+* [Hexagon Agriculture](https://hexagonagriculture.com)
+* [iTER](http://iter.net.br)
+* [KM Online](https://www.kmonline.com.br)
+* [MineradorX](https://mineradorx.com)
+* [Neo Labor](https://neo-labor.com)
+* [OmniHunter](http://omnihunter.net/)
 * [Organizze](https://www.organizze.com.br/)
-* [Resultados Digitais](https://resultadosdigitais.com.br/) - matriz
+* [Portabilis](http://portabilis.com.br)
+* [Resultados Digitais](https://resultadosdigitais.com.br)
+* [Sumone](http://www.sumone.com.br)
 
 ## Sem escritório físico - Remoto
 * [Husky](https://www.husky.io)
