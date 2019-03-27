@@ -19,6 +19,9 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Distrito Federal (DF)
 * [PDVend](https://www.pdvend.com.br/)
+* [Flama](https://flama.is/)
+* [Startê](https://startae.com/)
+* [Ignição Digital](https://www.ignicaodigital.com.br/)
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
@@ -141,6 +144,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Magnetis](https://magnetis.com.br)
 * [Monde](https://www.monde.com.br/)
 * [Motorsw](https://motorsw.com.br)
+* [Netshow](https://netshow.me/)
 * [Nexoos](https://nexoos.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Plataformatec](https://plataformatec.com.br)
