@@ -18,10 +18,11 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
-* [PDVend](https://www.pdvend.com.br/)
 * [Flama](https://flama.is/)
-* [Startê](https://startae.com/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
+* [PDVend](https://www.pdvend.com.br/)
+* [Startê](https://startae.com/)
+* 
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
