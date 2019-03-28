@@ -18,7 +18,11 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
+* [Flama](https://flama.is/)
+* [Ignição Digital](https://www.ignicaodigital.com.br/)
 * [PDVend](https://www.pdvend.com.br/)
+* [Startê](https://startae.com/)
+* 
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
@@ -141,6 +145,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Magnetis](https://magnetis.com.br)
 * [Monde](https://www.monde.com.br/)
 * [Motorsw](https://motorsw.com.br)
+* [Netshow](https://netshow.me/)
 * [Nexoos](https://nexoos.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Plataformatec](https://plataformatec.com.br)
