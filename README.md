@@ -21,8 +21,8 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Flama](https://flama.is/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
 * [PDVend](https://www.pdvend.com.br/)
-* [Startê](https://startae.com/)
-* 
+* [Startaê](https://startae.com/)
+
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
