@@ -80,7 +80,9 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Idopter Labs](http://www.idopterlabs.com.br)
 * [Pródiga Sistemas](http://www.prodigasistemas.com.br/)
 ### Rondônia (RO)
+* [SEFIN - Secretaria de Estado de Finanças](https://www.sefin.ro.gov.br/)
 ### Roraima (RR)
+
 ### Tocantins (TO)
 * [Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)
 
