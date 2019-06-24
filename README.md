@@ -127,7 +127,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bionexo](https://bionexo.com)
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
-* [Caiena – Tecnologia e Design](http://www.caiena.net/) 
+* [Caiena – Tecnologia e Design](http://www.caiena.net/)
 * [Clicksign](https://www.clicksign.com/)
 * [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
@@ -189,6 +189,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Zygo](http://www.zygotecnologia.com)
 
 ## Sem escritório físico - Remoto
-* [Ebert](https://ebertapp.io)
 * [Husky](https://www.husky.io)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
+* [SourceLevel](https://sourcelevel.io)
