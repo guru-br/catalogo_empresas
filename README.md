@@ -189,6 +189,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Zygo](http://www.zygotecnologia.com)
 
 ## Sem escritório físico - Remoto
-* [Ebert](https://ebertapp.io)
 * [Husky](https://www.husky.io)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
+* [SourceLevel](https://sourcelevel.io)
