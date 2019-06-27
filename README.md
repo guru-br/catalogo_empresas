@@ -64,6 +64,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Codeminer 42](http://www.codeminer42.com/)
 * [Craosx](https://craosx.com/)
 * [Credere](https://meucredere.com.br) - matriz
+* [Insight](http://insightsistemas.com.br/)
 * [Tootz](https://tootz.com.br/)
 ### Sergipe (SE)
 
