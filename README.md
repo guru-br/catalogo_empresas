@@ -135,6 +135,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Codus](https://www.codus.com.br/)
 * [Credere](https://meucredere.com.br)
 * [Creditas](https://creditas.com.br)
+* [D3 - Digital Product Studio](https://d3.do/)
 * [Dog Hero](http://doghero.com.br)
 * [Dr. Sintomas](https://drsintomas.com.br/)
 * [EasyCrédito](https://easycredito.me/)
@@ -162,6 +163,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Vagas](https://vagas.com.br)
 * [Vindi](https://vindi.com.br/)
 * [Worldpackers](https://worldpackers.com)
+* [Zag](https://www.zagapp.com.br)
 
 ---
 
