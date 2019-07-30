@@ -49,6 +49,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Alagoas (AL)
 * [Safety System Technology](http://safetysystemtechnology.com.br/)
+* [Stant](http://www.stant.com.br/)
 ### Bahia (BA)
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
