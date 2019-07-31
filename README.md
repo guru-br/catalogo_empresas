@@ -104,7 +104,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Edools](https://www.edools.com/)
 * [Estante Virtual](https://www.estantevirtual.com.br/)
 * [FullLab](https://www.fulllab.com.br/)
-* [Globo.com](https://www.globo.com/)
+* [Globo.com](https://www.globo.com/) - matriz
 * [Indeva](https://indeva.com.br/)
 * [Lemoney](https://www.lemoney.com/)
 * [M4U](https://www.m4u.com.br/)
@@ -175,6 +175,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 ### Rio Grande do Sul (RS)
 * [Wedy](https://wedy.com/)
+* [Globo.com](https://www.globo.com/)
 ### Santa Catarina (SC)
 * [Bonitour](https://www.bonitour.com.br)
 * [Celtec](http://celtec.com.br)
