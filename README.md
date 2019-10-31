@@ -59,6 +59,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Guava](https://guavasoftware.com/)
 * [In Loco](https://inloco.com.br/)
 * [Skyhub](https://skyhub.com.br/)
+* [Capyba](https://capyba.com/)
 ### Piauí (PI)
 * [Jus](https://jus.com.br/)
 ### Rio Grande do Norte (RN)
