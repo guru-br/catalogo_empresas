@@ -56,10 +56,10 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
+* [Capyba](https://capyba.com/)
 * [Guava](https://guavasoftware.com/)
 * [In Loco](https://inloco.com.br/)
 * [Skyhub](https://skyhub.com.br/)
-* [Capyba](https://capyba.com/)
 ### Piauí (PI)
 * [Jus](https://jus.com.br/)
 ### Rio Grande do Norte (RN)
