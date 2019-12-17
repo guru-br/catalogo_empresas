@@ -102,7 +102,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [BeijaFlore](https://www.beijaflore.com/be/)
 * [ChefsClub](https://www.chefsclub.com.br/)
 * [Dtm](http://www.dtmtec.com.br/)
-* [Edools](https://www.edools.com/)
 * [Estante Virtual](https://www.estantevirtual.com.br/)
 * [FullLab](https://www.fulllab.com.br/)
 * [Globo.com](https://www.globo.com/) - matriz
@@ -174,6 +173,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Paraná (PR)
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
+* [Hero Spark](https://herospark.com/)
 ### Rio Grande do Sul (RS)
 * [Wedy](https://wedy.com/)
 * [Globo.com](https://www.globo.com/)
