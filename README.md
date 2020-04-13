@@ -188,6 +188,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Hexagon Agriculture](https://hexagonagriculture.com)
 * [iTER](http://iter.net.br)
 * [KM Online](https://www.kmonline.com.br)
+* [Magrathea Labs](https://magrathealabs.com/)
 * [MineradorX](https://mineradorx.com)
 * [Neo Labor](https://neo-labor.com)
 * [OmniHunter](http://omnihunter.net/)
