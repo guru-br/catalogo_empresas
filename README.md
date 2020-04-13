@@ -77,6 +77,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Acre (AC)
 ### Amapá (AP)
 ### Amazonas (AM)
+* [Agrosmart](https://agrosmart.com.br/)
 ### Maranhão (MA)
 ### Pará (PA)
 * [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
@@ -121,6 +122,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [XL Solutions](http://www.xlsol.com/)
 ### São Paulo (SP)
 * [4Shark](http://www.4shark.com.br/)
+* [Agrosmart](https://agrosmart.com.br/) - matriz
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AutoSeg](https://autoseg.com/)
