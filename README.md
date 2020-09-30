@@ -158,6 +158,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Nexoos](https://nexoos.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Plataformatec](https://plataformatec.com.br)
+* [Pier](https://www.pier.digital/)
 * [Pitzi](https://pitzi.com.br/)
 * [Prodiga Sistemas](http://www.prodigasistemas.com.br)
 * [Rapidoo](https://rapidoo.com.br)
