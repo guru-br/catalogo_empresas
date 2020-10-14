@@ -185,6 +185,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Globo.com](https://www.globo.com/)
 ### Santa Catarina (SC)
 * [Bonitour](https://www.bonitour.com.br)
+* [CashWay](https://www.cashway.io)
 * [Celtec](http://celtec.com.br)
 * [GeekHunter](https://www.geekhunter.com.br)
 * [Go Good](http://www.gogood.com.br)
