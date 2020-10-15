@@ -82,7 +82,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Pará (PA)
 * [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 * [Idopter Labs](http://www.idopterlabs.com.br)
-* [James Delivery](http://www.james.com.br)
+* [Jambu Tecnologia](http://www.jambu.com.br/)
 * [Pródiga Sistemas](http://www.prodigasistemas.com.br/)
 ### Rondônia (RO)
 * [SEFIN - Secretaria de Estado de Finanças](https://www.sefin.ro.gov.br/)
