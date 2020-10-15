@@ -145,6 +145,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [EasyCrédito](https://easycredito.me/)
 * [Enjoei](https://www.enjoei.com.br/)
 * [GetNinjas](https://getninjas.com.br)
+* [Globo.com](https://www.globo.com/)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
 * [Kazap](https://kazap.com.br)
@@ -198,6 +199,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [OmniHunter](http://omnihunter.net/)
 * [Organizze](https://www.organizze.com.br/)
 * [Portabilis](http://portabilis.com.br)
+* [Prevision](https://www.prevision.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Zygo](http://www.zygotecnologia.com)
 
