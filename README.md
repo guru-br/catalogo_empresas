@@ -167,6 +167,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Sul
 
 ### Paraná (PR)
+* [CERTUS](https://www.certus.inf.br/)
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 ### Rio Grande do Sul (RS)
