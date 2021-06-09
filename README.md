@@ -67,6 +67,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Codeminer 42](http://www.codeminer42.com/)
 * [Craosx](https://craosx.com/)
 * [Credere](https://meucredere.com.br) - matriz
+* [Insight](http://insightsistemas.com.br/)
 * [Tootz](https://tootz.com.br/)
 ### Sergipe (SE)
 
@@ -179,6 +180,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Sul
 
 ### Paraná (PR)
+* [CERTUS](https://www.certus.inf.br/)
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 * [Hero Spark](https://herospark.com/)
