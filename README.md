@@ -146,6 +146,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Dr. Sintomas](https://drsintomas.com.br/)
 * [EasyCrédito](https://easycredito.me/)
 * [Enjoei](https://www.enjoei.com.br/)
+* [Fretadão](https://fretadao.com.br/)
 * [GetNinjas](https://getninjas.com.br)
 * [Globo.com](https://www.globo.com/)
 * [Gympass](https://www.gympass.com/)
