@@ -204,6 +204,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Portabilis](http://portabilis.com.br)
 * [Prevision](https://www.prevision.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
+* [Ruptiva](https://www.ruptiva.com/)
 * [Zygo](http://www.zygotecnologia.com)
 
 ## Sem escritório físico - Remoto
