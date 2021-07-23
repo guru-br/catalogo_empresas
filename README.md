@@ -53,7 +53,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Bahia (BA)
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
-* [Brasil System](https://www.brasilsystems.com.br)
+* [Brasil System](https://www.brasilsystems.com.br/)
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
