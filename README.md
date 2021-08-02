@@ -98,6 +98,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Espírito Santo (ES)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
+* [Zaitt](https://zaitt.com.br/) - matriz
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
 ### Rio de Janeiro (RJ)
@@ -143,6 +144,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Credere](https://meucredere.com.br)
 * [Creditas](https://creditas.com.br)
 * [D3 - Digital Product Studio](https://d3.do/)
+* [Distrito](http://www.distrito.me)
 * [Dog Hero](http://doghero.com.br)
 * [Dr. Sintomas](https://drsintomas.com.br/)
 * [EasyCrédito](https://easycredito.me/)
@@ -189,8 +191,9 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Hero Spark](https://herospark.com/)
 * [Neurologic](http://www.neurologic.com.br)
 ### Rio Grande do Sul (RS)
-* [Wedy](https://wedy.com/)
 * [Globo.com](https://www.globo.com/)
+* [Vnda](https://www.vnda.com.br/)
+* [Wedy](https://wedy.com/)
 ### Santa Catarina (SC)
 * [Bonitour](https://www.bonitour.com.br)
 * [CashWay](https://www.cashway.io)
