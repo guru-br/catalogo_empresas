@@ -215,6 +215,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Zygo](http://www.zygotecnologia.com)
 
 ## Sem escritório físico - Remoto
+* [Agendor](https://www.agendor.com.br)
 * [Husky](https://www.husky.io)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
