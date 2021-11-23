@@ -152,6 +152,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Globo.com](https://www.globo.com/)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
+* [Inovamind](https://inovamind.com.br)
 * [Kazap](https://kazap.com.br)
 * [Liber Capital](https://libercapital.com.br)
 * [Locaweb](https://locaweb.com.br)
