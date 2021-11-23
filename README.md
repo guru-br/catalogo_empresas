@@ -163,6 +163,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Munddi](http://www.munddi.com)
 * [Netshow](https://netshow.me/)
 * [Nexoos](https://nexoos.com.br/)
+* [OM30](https://om30.com.br/)
 * [Petlove](https://petlove.com.br)
 * [Pier](https://www.pier.digital/)
 * [Pitzi](https://pitzi.com.br/)
