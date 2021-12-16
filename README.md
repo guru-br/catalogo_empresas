@@ -220,5 +220,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Sem escritório físico - Remoto
 * [Agendor](https://www.agendor.com.br)
 * [Husky](https://www.husky.io)
+* [Impulso](https://impulso.work)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
