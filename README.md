@@ -105,6 +105,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
 * [BeijaFlore](https://www.beijaflore.com/be/)
+* [Blu](https://www.blu.com.br)
 * [ChefsClub](https://www.chefsclub.com.br/)
 * [Dtm](http://www.dtmtec.com.br/)
 * [Estante Virtual](https://www.estantevirtual.com.br/)
