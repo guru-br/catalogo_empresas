@@ -204,6 +204,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bonitour](https://www.bonitour.com.br)
 * [CashWay](https://www.cashway.io)
 * [Celtec](http://celtec.com.br)
+* [Fácil123](https://facil123.com.br)
 * [GeekHunter](https://www.geekhunter.com.br)
 * [Go Good](http://www.gogood.com.br)
 * [FACISC](http://facisc.org.br)
