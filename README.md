@@ -54,7 +54,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
 * [Brasil System](https://www.brasilsystems.com.br/)
-* [Fortes Tecnologia](fortestecnologia.com.br/)
+* [Fortes Tecnologia](fortestecnologia.com.br)
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
