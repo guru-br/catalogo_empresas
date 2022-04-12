@@ -227,5 +227,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Agendor](https://www.agendor.com.br)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
+* [Kobana](https://www.kobana.com.br)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
