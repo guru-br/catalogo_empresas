@@ -230,3 +230,4 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Kobana](https://www.kobana.com.br)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
+* [Trusted Health Brasil](https://www.trustedhealth.com/careers)
