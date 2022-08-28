@@ -193,6 +193,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Paraná (PR)
 * [CERTUS](https://www.certus.inf.br/)
+* [Conviso](https://www.convisoappsec.com/)
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 * [Hero Spark](https://herospark.com/)
