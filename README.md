@@ -229,6 +229,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Kobana](https://www.kobana.com.br)
+* [Pipefy](https://www.pipefy.com/careers/)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
