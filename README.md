@@ -161,6 +161,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Iugu](https://iugu.com/)
 * [Inovamind](https://inovamind.com.br)
 * [Kazap](https://kazap.com.br)
+* [Knowbe4](https://knowbe4.com)
 * [Liber Capital](https://libercapital.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
