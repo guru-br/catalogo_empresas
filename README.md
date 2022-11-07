@@ -18,6 +18,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
+* [Bx Blue](https://bxblue.com.br/)
 * [Flama](https://flama.is/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
 * [PDVend](https://www.pdvend.com.br/)
@@ -162,6 +163,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Inovamind](https://inovamind.com.br)
 * [Kazap](https://kazap.com.br)
 * [Knowbe4](https://knowbe4.com)
+* [Kria](https://www.kria.vc/)
 * [Liber Capital](https://libercapital.com.br)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
@@ -177,6 +179,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Pitzi](https://pitzi.com.br/)
 * [Plataformatec](https://plataformatec.com.br)
 * [Prodiga Sistemas](http://www.prodigasistemas.com.br)
+* [Purple Stock](http://www.purplestock.com.br)
 * [Rapidoo](https://rapidoo.com.br)
 * [Rebase](https://www.rebase.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
@@ -194,11 +197,13 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ### Paraná (PR)
 * [CERTUS](https://www.certus.inf.br/)
+* [Consulta Remédios](https://consultaremedios.com.br/)
 * [Conviso](https://www.convisoappsec.com/)
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 * [Hero Spark](https://herospark.com/)
 * [Neurologic](http://www.neurologic.com.br)
+* [Olist](https://olist.com/)
 ### Rio Grande do Sul (RS)
 * [Globo.com](https://www.globo.com/)
 * [Vnda](https://www.vnda.com.br/)
