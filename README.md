@@ -142,6 +142,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Caiena – Tecnologia e Design](http://www.caiena.net/)
+* [Capim](http://www.capim.com.br/)
 * [CashU](https://www.cashu.com.br/)
 * [Clicksign](https://www.clicksign.com/)
 * [CloudWalk](https://www.cloudwalk.io)
