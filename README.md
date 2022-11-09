@@ -22,6 +22,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Flama](https://flama.is/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
 * [PDVend](https://www.pdvend.com.br/)
+* [Ribon](https://www.ribon.io/)
 * [Startaê](https://startae.com/)
 
 ### Goiás (GO)
