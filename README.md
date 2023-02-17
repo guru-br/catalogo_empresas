@@ -235,6 +235,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Sem escritório físico - Remoto
 * [Agendor](https://www.agendor.com.br)
+* [Catarse](https://catarse.me)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Kobana](https://www.kobana.com.br)
