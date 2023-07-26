@@ -62,7 +62,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Pernambuco (PE)
 * [Capyba](https://capyba.com/)
 * [Guava](https://guavasoftware.com/)
-* [In Loco](https://inloco.com.br/)
+* [Incognia](https://www.incognia.com/) - matriz
 * [Skyhub](https://skyhub.com.br/)
 ### Piauí (PI)
 * [Jus](https://jus.com.br/)
@@ -238,6 +238,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Catarse](https://catarse.me)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
+* [Incognia](https://www.incognia.com/)
 * [Kobana](https://www.kobana.com.br)
 * [Mercado Diferente](https://www.mercadodiferente.com.br)
 * [Pipefy](https://www.pipefy.com/careers/)
