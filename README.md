@@ -170,7 +170,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
-* [Monde](https://www.monde.com.br/)
 * [Motorsw](https://motorsw.com.br)
 * [Munddi](http://www.munddi.com)
 * [Netshow](https://netshow.me/)
@@ -235,12 +234,14 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Sem escritório físico - Remoto
 * [Agendor](https://www.agendor.com.br)
+* [Cadena](https://www.cadena.com.br)
 * [Catarse](https://catarse.me)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Incognia](https://www.incognia.com/)
 * [Kobana](https://www.kobana.com.br)
 * [Mercado Diferente](https://www.mercadodiferente.com.br)
+* [Monde](https://www.monde.com.br/)
 * [Pipefy](https://www.pipefy.com/careers/)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
