@@ -61,7 +61,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
 * [Capyba](https://capyba.com/)
-* [Guava](https://guavasoftware.com/)
 * [Incognia](https://www.incognia.com/) - matriz
 * [Skyhub](https://skyhub.com.br/)
 ### Piauí (PI)
