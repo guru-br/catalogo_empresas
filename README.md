@@ -56,13 +56,12 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
 * [Brasil System](https://www.brasilsystems.com.br/)
-* [Fortes Tecnologia](http://www.fortestecnologia.com.br)
 * [Gocase](https://www.gocase.com.br/)
+
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
 * [Capyba](https://capyba.com/)
-* [Guava](https://guavasoftware.com/)
 * [Incognia](https://www.incognia.com/) - matriz
 * [Skyhub](https://skyhub.com.br/)
 ### Piauí (PI)
@@ -127,7 +126,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Reserva](https://www.usereserva.com/)
 * [Rupee](https://www.rupee.com.br/)
 * [SkyHub](https://skyhub.com.br/) - matriz
-*  [Unimed Federação do Estado do Rio de Janeiro](https://www.unimedrj.coop.br/)
+* [Unimed Federação do Estado do Rio de Janeiro](https://www.unimedrj.coop.br/)
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
@@ -168,6 +167,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Knowbe4](https://knowbe4.com)
 * [Kria](https://www.kria.vc/)
 * [Liber Capital](https://libercapital.com.br)
+* [Linkana](https://www.linkana.com/)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
@@ -192,6 +192,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Vindi](https://vindi.com.br/)
 * [Worldpackers](https://worldpackers.com)
 * [Zag](https://www.zagapp.com.br)
+* [Zazos](https://www.zazos.com/)
 
 ---
 
