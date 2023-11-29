@@ -237,6 +237,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Agendor](https://www.agendor.com.br)
 * [Cadena](https://www.cadena.com.br)
 * [Catarse](https://catarse.me)
+* [Easy Pallet](https://easypallet.com.br/)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Incognia](https://www.incognia.com/)
