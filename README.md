@@ -126,7 +126,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Reserva](https://www.usereserva.com/)
 * [Rupee](https://www.rupee.com.br/)
 * [SkyHub](https://skyhub.com.br/) - matriz
-* [Unimed Federação do Estado do Rio de Janeiro](https://www.unimedrj.coop.br/)
+* [Unimed FERJ](https://www.unimedrj.coop.br/)
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
