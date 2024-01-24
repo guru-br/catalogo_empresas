@@ -145,6 +145,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Caiena – Tecnologia e Design](http://www.caiena.net/)
 * [Capim](http://www.capim.com.br/)
 * [CashU](https://www.cashu.com.br/)
+* [Claretiano - Rede de Educação](https://claretiano.edu.br/)
 * [Clicksign](https://www.clicksign.com/)
 * [CloudWalk](https://www.cloudwalk.io)
 * [Codeminer 42](http://www.codeminer42.com/) - matriz
