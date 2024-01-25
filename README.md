@@ -187,6 +187,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Rebase](https://www.rebase.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Testr](http://testr.com.br/)
+* [TotalPass](https://totalpass.com/br/)
 * [Trustvox](https://site.trustvox.com.br)
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
