@@ -250,6 +250,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Mercado Diferente](https://www.mercadodiferente.com.br)
 * [Monde](https://www.monde.com.br/)
 * [Pipefy](https://www.pipefy.com/careers/)
+* [RenoFi](https://www.renofi.com/careers/)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
 * [SourceLevel](https://sourcelevel.io)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
