@@ -234,7 +234,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Organizze](https://www.organizze.com.br/)
 * [Portabilis](http://portabilis.com.br)
 * [Prevision](https://www.prevision.com.br/)
-* [Resultados Digitais](https://resultadosdigitais.com.br)
+* [RD Station](https://rdstation.com)
 * [Ruptiva](https://www.ruptiva.com/)
 
 ## Sem escritório físico - Remoto
