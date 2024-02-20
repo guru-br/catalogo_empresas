@@ -32,7 +32,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Cilia](https://cilia.com.br/)
 * [Codeminer 42](http://www.codeminer42.com/)
 * [Cogni](https://cogni.group/)
-* [Dev4Labs](https://www.dev4web.com.br/)
+* [Devlabs](https://devlabs.digital/)
 * [EasyCrédito](https://easycredito.me/) - matriz
 * [Gado e Cia](http://www.gadoecia.com.br/)
 * [Secretaria de Educação e Esporte do Estado de Goiás](https://www.seduce.go.gov.br/)
