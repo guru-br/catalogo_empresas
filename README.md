@@ -24,6 +24,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [PDVend](https://www.pdvend.com.br/)
 * [Ribon](https://www.ribon.io/)
 * [Startaê](https://startae.com/)
+* [Switch Dreams](https://switchdreams.com.br/)
 
 ### Goiás (GO)
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
