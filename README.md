@@ -175,6 +175,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Magnetis](https://magnetis.com.br)
 * [Motorsw](https://motorsw.com.br)
 * [Munddi](http://www.munddi.com)
+* [Nama](https://nama.ai)
 * [Nave](https://nave.app.br/)
 * [Netshow](https://netshow.me/)
 * [Nexoos](https://nexoos.com.br/)
