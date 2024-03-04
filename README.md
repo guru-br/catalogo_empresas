@@ -166,6 +166,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Iugu](https://iugu.com/)
 * [Inovamind](https://inovamind.com.br)
 * [Kazap](https://kazap.com.br)
+* [Kikker](https://kikker.com.br)
 * [Knowbe4](https://knowbe4.com)
 * [Kria](https://www.kria.vc/)
 * [Liber Capital](https://libercapital.com.br)
