@@ -105,6 +105,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Zaitt](https://zaitt.com.br/) - matriz
 ### Minas Gerais (MG)
 * [Dito](https://dito.com.br/) - matriz
+* [Espresso](https://www.espressoapp.com.br/)
 * [Sólides](https://solides.com.br/) - matriz
 ### Rio de Janeiro (RJ)
 * [Algorich](http://algorich.com.br)
