@@ -188,6 +188,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Netshow](https://netshow.me/)
 * [Nexoos](https://nexoos.com.br/)
 * [OM30](https://om30.com.br/)
+* [Parafuzo](https://parafuzo.com/)
 * [Petlove](https://petlove.com.br)
 * [Pier](https://www.pier.digital/)
 * [Pitzi](https://pitzi.com.br/)
