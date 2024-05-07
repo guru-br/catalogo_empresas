@@ -130,7 +130,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Nexaas](http://nexaas.com/)
 * [Nuuvem](https://www.nuuvem.com/)
 * [Qconcursos](https://www.qconcursos.com/)
-* [Reserva](https://www.usereserva.com/)
+* [Reserva INK](https://reserva.ink)
 * [Rupee](https://www.rupee.com.br/)
 * [SkyHub](https://skyhub.com.br/) - matriz
 * [Unimed FERJ](https://www.unimedrj.coop.br/)
