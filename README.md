@@ -266,4 +266,5 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Segarante](https://www.segarante.com.br/)
 * [Segdev](https://www.segdev.com.br/)
 * [SourceLevel](https://sourcelevel.io)
+* [Taller](https://taller.net.br)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
