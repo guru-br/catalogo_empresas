@@ -114,6 +114,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Dito](https://dito.com.br/) - matriz
 * [Espresso](https://www.espressoapp.com.br/)
 * [Sólides](https://solides.com.br/) - matriz
+* [Synergia](https://www.synergiaconsultoria.com.br/)
 ### Rio de Janeiro (RJ)
 * [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
@@ -139,8 +140,11 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
+### São José dos Campos
+* [Coyo](https://www.coyo.com.br/)
 ### São Paulo (SP)
 * [4Shark](http://www.4shark.com.br/)
+* [4MDG](https://4mdg.com.br/)
 * [Agrosmart](https://agrosmart.com.br/) - matriz
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
@@ -152,6 +156,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bluefish](http://www.bluefish.com.br)
 * [Caderno Nacional](https://www.cadernonacional.com.br/)
 * [Caiena – Tecnologia e Design](http://www.caiena.net/)
+* [Callix](https://www.callix.com.br/)
 * [Capim](http://www.capim.com.br/)
 * [CashU](https://www.cashu.com.br/)
 * [Claretiano - Rede de Educação](https://claretiano.edu.br/)
@@ -166,6 +171,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Dog Hero](http://doghero.com.br)
 * [Dr. Sintomas](https://drsintomas.com.br/)
 * [EasyCrédito](https://easycredito.me/)
+* [Eicon](https://www.eicon.com.br/)
 * [Enjoei](https://www.enjoei.com.br/)
 * [Fretadão](https://fretadao.com.br/)
 * [GetNinjas](https://getninjas.com.br)
@@ -198,6 +204,8 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Purple Stock](http://www.purplestock.com.br)
 * [Rapidoo](https://rapidoo.com.br)
 * [Rebase](https://www.rebase.com.br/)
+* [Record TV](https://record.r7.com/)
+* [Repassa](https://www.repassa.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Revelo](https://www.revelo.com.br)
 * [Smart Fit](https://www.smartfit.com.br)
@@ -210,6 +218,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Worldpackers](https://worldpackers.com)
 * [Zag](https://www.zagapp.com.br)
 * [Zazos](https://www.zazos.com/)
+* [Youse](https://www.youse.com.br/)
 
 ---
 
