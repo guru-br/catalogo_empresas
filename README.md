@@ -209,6 +209,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Repassa](https://www.repassa.com.br/)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Revelo](https://www.revelo.com.br)
+* [RunRun.it](https://runrun.it/pt-BR)
 * [Smart Fit](https://www.smartfit.com.br)
 * [Testr](http://testr.com.br/)
 * [TotalPass](https://totalpass.com/br/)
