@@ -274,6 +274,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Monde](https://www.monde.com.br/)
 * [Pipefy](https://www.pipefy.com/careers/)
 * [Rent a Local Friend](https://www.rentalocalfriend.com/)
+* [RunRun.it](https://runrun.it/pt-BR)
 * [Segarante](https://www.segarante.com.br/)
 * [Segdev](https://www.segdev.com.br/)
 * [SourceLevel](https://sourcelevel.io)
