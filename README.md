@@ -262,6 +262,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Sem escritório físico - Remoto
 * [Agendor](https://www.agendor.com.br)
+* [Blue AI](https://blueai.com.br/)
 * [Cadena](https://www.cadena.com.br)
 * [Catarse](https://catarse.me)
 * [Easy Pallet](https://easypallet.com.br/)
