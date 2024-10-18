@@ -59,11 +59,13 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Brasil System](https://www.brasilsystems.com.br/)
 * [CompreUp](https://compreup.com.br/)
 * [Coreplan](https://www.coreplan.com.br/)
+* [Farias Brito - FB Online](https://www.fbonline.com.br/)
 * [Fortes Tecnologia](https://www.fortestecnologia.com.br/) - matriz
 * [Gocase](https://www.gocase.com.br/)
 * [Intersol](http://www.intersolnet.com.br/)
 * [Instituto Atlântico](https://www.atlantico.com.br/)
 * [Resolvvi](https://www.resolvvi.com/)
+* [TechDojo](https://techdojo.com.br/)
 
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
