@@ -66,7 +66,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Instituto Atlântico](https://www.atlantico.com.br/)
 * [Resolvvi](https://www.resolvvi.com/)
 * [TechDojo](https://techdojo.com.br/)
-
+### Maranhão (MA)
 ### Paraíba (PB)
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
 ### Pernambuco (PE)
@@ -93,7 +93,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Amapá (AP)
 ### Amazonas (AM)
 * [Agrosmart](https://agrosmart.com.br/)
-### Maranhão (MA)
 ### Pará (PA)
 * [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 * [Idopter Labs](http://www.idopterlabs.com.br)
