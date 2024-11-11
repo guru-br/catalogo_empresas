@@ -112,6 +112,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
 * [Zaitt](https://zaitt.com.br/) - matriz
 ### Minas Gerais (MG)
+* [Acsiv](https://acsiv.com.br/)
 * [Alloyal](https://alloyal.com.br/)
 * [Dito](https://dito.com.br/) - matriz
 * [Espresso](https://www.espressoapp.com.br/)
