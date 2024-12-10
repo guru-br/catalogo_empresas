@@ -54,6 +54,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Safety System Technology](http://safetysystemtechnology.com.br/)
 * [Stant](http://www.stant.com.br/)
 ### Bahia (BA)
+* [Avantsoft](https://avantsoft.com.br/)
 ### Ceará (CE)
 * [Agenda Edu](https://agendaedu.com/)
 * [Brasil System](https://www.brasilsystems.com.br/)
