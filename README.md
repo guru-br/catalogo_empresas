@@ -204,6 +204,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Petlove](https://petlove.com.br)
 * [Pier](https://www.pier.digital/)
 * [Pitzi](https://pitzi.com.br/)
+* [Planisa](https://planisa.com.br/site/)
 * [Plataformatec](https://plataformatec.com.br)
 * [Prodiga Sistemas](http://www.prodigasistemas.com.br)
 * [Purple Stock](http://www.purplestock.com.br)
