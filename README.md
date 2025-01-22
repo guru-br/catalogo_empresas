@@ -154,7 +154,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
 * [AppGas](https://appgas.com/)
-* [AutoSeg](https://autoseg.com/)
 * [Bicos](https://www.bicos.com.br/)
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br) - matriz
 * [Bionexo](https://bionexo.com)
