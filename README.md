@@ -73,6 +73,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Pernambuco (PE)
 * [Capyba](https://capyba.com/)
 * [Incognia](https://www.incognia.com/) - matriz
+* [Mesa Mobile Thinking](https://www.mesainc.com.br/)
 * [Skyhub](https://skyhub.com.br/)
 ### Piauí (PI)
 * [Jus](https://jus.com.br/)
