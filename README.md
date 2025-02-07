@@ -286,3 +286,4 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [SourceLevel](https://sourcelevel.io)
 * [Taller](https://taller.net.br)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
+* [Atende Simples](https://www.atendesimples.com/)
