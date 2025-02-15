@@ -212,7 +212,6 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Rebase](https://www.rebase.com.br/)
 * [Record TV](https://record.r7.com/)
 * [Repassa](https://www.repassa.com.br/)
-* [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Revelo](https://www.revelo.com.br)
 * [Smart Fit](https://www.smartfit.com.br)
 * [Testr](http://testr.com.br/)
