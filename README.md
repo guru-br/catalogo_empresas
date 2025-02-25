@@ -190,6 +190,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Kria](https://www.kria.vc/)
 * [Liber Capital](https://libercapital.com.br)
 * [Linkana](https://www.linkana.com/)
+* [Lobby Tech](https://lobby.tech/)
 * [Locaweb](https://locaweb.com.br)
 * [Luztr](http://www.luztr.com/)
 * [Magnetis](https://magnetis.com.br)
