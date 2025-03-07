@@ -181,6 +181,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Fretadão](https://fretadao.com.br/)
 * [GetNinjas](https://getninjas.com.br)
 * [Globo.com](https://www.globo.com/)
+* [Grafeno Digital](https://grafeno.digital/)
 * [Gympass](https://www.gympass.com/)
 * [Iugu](https://iugu.com/)
 * [Inovamind](https://inovamind.com.br)
