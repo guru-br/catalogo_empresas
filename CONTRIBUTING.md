@@ -11,7 +11,7 @@
 
 Você quer cadastrar uma **empresa A** que fica em Rondônia, Porém, a matriz está no Rio de Janeiro. Acrescente a empresa em Rondônia, respeitando as regras, e caso a empresa ainda não esteja listada no RJ, cadastre-a e acrescente **- matriz** no final. Caso contrário, apenas adicione **- matriz**.
 
-### Empressas sem escritório físico
+### Empresas sem escritório físico
 
 Caso a empresa não tenha um escritório físico em algum estado, deve ser cadastrada na seção `Sem escritório físico - Remoto`
 
