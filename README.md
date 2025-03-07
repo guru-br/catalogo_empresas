@@ -221,6 +221,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Umanni](https://www.umanni.com.br)
 * [Vagas](https://vagas.com.br)
 * [Vindi](https://vindi.com.br/)
+* [Voll Solutions](https://vollsolutions.com.br/)
 * [Worldpackers](https://worldpackers.com)
 * [Zag](https://www.zagapp.com.br)
 * [Zazos](https://www.zazos.com/)
