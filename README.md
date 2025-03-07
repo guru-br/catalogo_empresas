@@ -151,6 +151,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### São Paulo (SP)
 * [4Shark](http://www.4shark.com.br/)
 * [4MDG](https://4mdg.com.br/)
+* [Adaflow](https://www.adaflow.com/)
 * [Agrosmart](https://agrosmart.com.br/) - matriz
 * [Anuncie Ribeirão](https://www.anuncieribeirao.com/)
 * [App Eu Quero (API)](https://appeuquero.com/home/)
