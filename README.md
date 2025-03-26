@@ -236,6 +236,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [EBANX](https://ebanx.com/)
 * [Franquia Portal da Cidade](https://www.franquiaportaldacidade.com/)
 * [Hero Spark](https://herospark.com/)
+* [Kompra.app](https://www.kompra.app/)
 * [Neurologic](http://www.neurologic.com.br)
 * [Olist](https://olist.com/)
 ### Rio Grande do Sul (RS)
