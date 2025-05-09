@@ -258,6 +258,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [FACISC](http://facisc.org.br)
 * [Hexagon Agriculture](https://hexagonagriculture.com)
 * [iTER](http://iter.net.br)
+* [JungleDevs](https://jungledevs.com)
 * [KM Online](https://www.kmonline.com.br)
 * [Magrathea Labs](https://magrathealabs.com/)
 * [MineradorX](https://mineradorx.com)
