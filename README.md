@@ -18,6 +18,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Centro-Oeste
 
 ### Distrito Federal (DF)
+
 * [Bx Blue](https://bxblue.com.br/)
 * [Flama](https://flama.is/)
 * [Ignição Digital](https://www.ignicaodigital.com.br/)
@@ -27,6 +28,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Switch Dreams](https://switchdreams.com.br/)
 
 ### Goiás (GO)
+
 * [Anexo Soluções](http://www.anexosolucoes.com.br/)
 * [Assembleia Legislativa do Estado de Goiás](http://al.go.leg.br/)
 * [BaladApp](http://www.baladapp.com.br/)
@@ -41,9 +43,13 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Tribunal de Justiça](http://www.tjgo.jus.br/)
 * [UmbrellaTec](http://www.umbrellatec.com.br/)
 * [Voz Digital](http://vozdigital.com.br/)
+
 ### Mato Grosso (MT)
+
 * [Netconv Delivery Conveniência](https://www.netconv.com//)
+
 ### Mato Grosso do Sul (MS)
+
 * [Jera](https://jera.com.br/)
 
 ---
@@ -51,11 +57,16 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Nordeste
 
 ### Alagoas (AL)
+
 * [Safety System Technology](http://safetysystemtechnology.com.br/)
 * [Stant](http://www.stant.com.br/)
+
 ### Bahia (BA)
+
 * [Avantsoft](https://avantsoft.com.br/)
+
 ### Ceará (CE)
+
 * [Agenda Edu](https://agendaedu.com/)
 * [Brasil System](https://www.brasilsystems.com.br/)
 * [CompreUp](https://compreup.com.br/)
@@ -67,18 +78,27 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Instituto Atlântico](https://www.atlantico.com.br/)
 * [Resolvvi](https://www.resolvvi.com/)
 * [TechDojo](https://techdojo.com.br/)
+
 ### Maranhão (MA)
+
 ### Paraíba (PB)
+
 * [Fractal Tecnologia](http://fractaltecnologia.com.br) - matriz
+
 ### Pernambuco (PE)
+
 * [Capyba](https://capyba.com/)
 * [Incognia](https://www.incognia.com/) - matriz
 * [Mesa Mobile Thinking](https://www.mesainc.com.br/)
 * [Roadmapps](https://www.rdmapps.com.br/)
 * [Skyhub](https://skyhub.com.br/)
+
 ### Piauí (PI)
+
 * [Jus](https://jus.com.br/)
+
 ### Rio Grande do Norte (RN)
+
 * [AutoForce](https://autoforce.com/)
 * [Codeminer 42](http://www.codeminer42.com/)
 * [Craosx](https://craosx.com/)
@@ -86,6 +106,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Dunnas Tecnologia e Consultoria](https://dunnastecnologia.com.br/)
 * [Insight](http://insightsistemas.com.br/)
 * [Tootz](https://tootz.com.br/)
+
 ### Sergipe (SE)
 
 ---
@@ -93,18 +114,28 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Norte
 
 ### Acre (AC)
+
 ### Amapá (AP)
+
 ### Amazonas (AM)
+
 * [Agrosmart](https://agrosmart.com.br/)
+
 ### Pará (PA)
+
 * [Akapu Tecnologia e Assessoramento](https://www.akapu.com.br/)
 * [Idopter Labs](http://www.idopterlabs.com.br)
 * [Jambu Tecnologia](http://www.jambu.com.br/)
 * [Pródiga Sistemas](http://www.prodigasistemas.com.br/)
+
 ### Rondônia (RO)
+
 * [SEFIN - Secretaria de Estado de Finanças](https://www.sefin.ro.gov.br/)
+
 ### Roraima (RR)
+
 ### Tocantins (TO)
+
 * [Defensoria Pública do Estado do Tocantins](http://defensoria.to.def.br)
 
 ---
@@ -112,17 +143,26 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Sudeste
 
 ### Espírito Santo (ES)
+
 * [Bio Ritmo](https://www.bioritmo.com.br) / [Smart Fit](https://www.smartfit.com.br)
 * [Zaitt](https://zaitt.com.br/) - matriz
+
 ### Minas Gerais (MG)
+
 * [Ability](https://www.abilityonline.com.br)
 * [Acsiv](https://acsiv.com.br/)
-* [Alloyal](https://alloyal.com.br/)
 * [Dito](https://dito.com.br/) - matriz
 * [Espresso](https://www.espressoapp.com.br/)
-* [Sólides](https://solides.com.br/) - matriz
 * [Synergia](https://www.synergiaconsultoria.com.br/)
+
+### Belo Horizonte (BH)
+
+* [Alloyal](https://alloyal.com.br/)
+* [FIT Energia](https://fitenergia.com.br/)
+* [Sólides](https://solides.com.br/) - matriz
+
 ### Rio de Janeiro (RJ)
+
 * [Algorich](http://algorich.com.br)
 * [Beep Saúde](https://www.beepsaude.com.br/)
 * [BeijaFlore](https://www.beijaflore.com/be/)
@@ -147,9 +187,13 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Webedia/Tudogostoso](https://www.tudogostoso.com.br/)
 * [Wpensar](https://wpensar.com.br/)
 * [XL Solutions](http://www.xlsol.com/)
+
 ### São José dos Campos
+
 * [Coyo](https://www.coyo.com.br/)
+
 ### São Paulo (SP)
+
 * [4Shark](http://www.4shark.com.br/)
 * [4MDG](https://4mdg.com.br/)
 * [Adaflow](https://www.adaflow.com/)
@@ -235,6 +279,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ## Sul
 
 ### Paraná (PR)
+
 * [CERTUS](https://www.certus.inf.br/)
 * [Consulta Remédios](https://consultaremedios.com.br/)
 * [Conviso](https://www.convisoappsec.com/)
@@ -244,12 +289,16 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Kompra.app](https://www.kompra.app/)
 * [Neurologic](http://www.neurologic.com.br)
 * [Olist](https://olist.com/)
+
 ### Rio Grande do Sul (RS)
+
 * [Checkplant](https://www.checkplant.com.br)
 * [Globo.com](https://www.globo.com/)
 * [Vnda](https://www.vnda.com.br/)
 * [Wedy](https://wedy.com/)
+
 ### Santa Catarina (SC)
+
 * [Bonitour](https://www.bonitour.com.br)
 * [CashWay](https://www.cashway.io)
 * [Celtec](http://celtec.com.br)
@@ -272,6 +321,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Ruptiva](https://www.ruptiva.com/)
 
 ## Sem escritório físico - Remoto
+
 * [Agendor](https://www.agendor.com.br)
 * [Blue AI](https://blueai.com.br/)
 * [Cadena](https://www.cadena.com.br)
