@@ -88,6 +88,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 ### Pernambuco (PE)
 
 * [Capyba](https://capyba.com/)
+* [GuardCenter](https://guardcenter.com.br) - matriz
 * [Incognia](https://www.incognia.com/) - matriz
 * [Mesa Mobile Thinking](https://www.mesainc.com.br/)
 * [Roadmapps](https://www.rdmapps.com.br/)
