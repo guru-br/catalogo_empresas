@@ -306,6 +306,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Cadena](https://www.cadena.com.br)
 * [Catarse](https://catarse.me)
 * [Easy Pallet](https://easypallet.com.br/)
+* [Festalab][https://festalab.com.br/]
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Incognia](https://www.incognia.com/)
@@ -318,6 +319,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [RunRun.it](https://runrun.it/pt-BR)
 * [Segarante](https://www.segarante.com.br/)
 * [Segdev](https://www.segdev.com.br/)
+* [Simbios](https://simbios.ai/)
 * [Taller](https://taller.net.br)
 * [Trusted Health Brasil](https://www.trustedhealth.com/careers)
 * [Atende Simples](https://www.atendesimples.com/)
