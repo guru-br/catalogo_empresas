@@ -306,7 +306,7 @@ Para contribuir, leia [CONTRIBUTING](CONTRIBUTING.md).
 * [Cadena](https://www.cadena.com.br)
 * [Catarse](https://catarse.me)
 * [Easy Pallet](https://easypallet.com.br/)
-* [Festalab][https://festalab.com.br/]
+* [Festalab](https://festalab.com.br/)
 * [Husky](https://www.husky.io)
 * [Impulso](https://impulso.work)
 * [Incognia](https://www.incognia.com/)
